@@ -1,4 +1,3 @@
-## Hi there! 👋 I'm KOS.
+## I am Kos.
 
-I'm currently learning Python and wish to understand machine learning.
-I like programming because it makes sense (most of the time).
+I am currently learning Python for the purposes of understanding machine learning, as well as NixOS because I think it is very interesting in the way it works.
